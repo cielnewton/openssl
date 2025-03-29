@@ -1,4 +1,3 @@
-cat << EOF > README.md
 # 🔐 Chiffrement AES en ligne de commande sous Linux (avec OpenSSL)
 
 Ce guide explique comment chiffrer et déchiffrer des fichiers en utilisant AES via `openssl` sur Linux. Pas besoin de programmation, tout se fait en terminal.
